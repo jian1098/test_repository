@@ -17,5 +17,5 @@
             "email": "jian1098@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "1.0.1"
 }
